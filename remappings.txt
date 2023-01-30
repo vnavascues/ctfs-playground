@@ -1,0 +1,9 @@
+@prb/test/=lib/prb-test/src/
+@openzeppelin-contracts=lib/openzeppelin-contracts/contracts/
+@openzeppelin-contracts-05=lib-0_5_x/openzeppelin-contracts/contracts/
+@openzeppelin-contracts-06=lib-0_6_x/openzeppelin-contracts/contracts/
+ethernaut/=src/ethernaut/
+forge-std/=lib/forge-std/src/
+src/=src/
+src05/=src-0_5_x/
+src06/=src-0_6_x/
